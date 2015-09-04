@@ -16,10 +16,10 @@
 	<name>Black Pepper Support Retrofit</name>
 
 	<scm>
-		<connection>scm:git:git@codebasehq.com:blackpepper/black-pepper-support/bp-support-retrofit.git</connection>
-		<developerConnection>scm:git:git@codebasehq.com:blackpepper/black-pepper-support/bp-support-retrofit.git</developerConnection>
+		<connection>scm:git:git@github.com:BlackPepperSoftware/bp-support-retrofit.git</connection>
+		<developerConnection>scm:git:git@github.com:BlackPepperSoftware/bp-support-retrofit.git</developerConnection>
 		<tag>HEAD</tag>
-		<url>https://blackpepper.codebasehq.com/black-pepper-support/bp-support-retrofit.git</url>
+		<url>https://github.com/BlackPepperSoftware/bp-support-retrofit</url>
 	</scm>
 	
 	<dependencies>
