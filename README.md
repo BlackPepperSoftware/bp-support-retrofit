@@ -1,2 +1,4 @@
-# bp-support-retrofit
-Support for working with Retrofit.
+Black Pepper Support Retrofit
+=============================
+
+Support for working with [Retrofit](http://square.github.io/retrofit/).
